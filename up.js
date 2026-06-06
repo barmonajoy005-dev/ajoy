@@ -8,7 +8,7 @@
 
   // CONFIG
   const _0x5e548e = {
-    k: "AJOY",
+    k: "SHAKIL",
     r: "https://aincradmods.com/getkey?token=fdc2793c94db484c84bdd0b295a7afad",
     t: "https://t.me/Ajoybarmon96",
     s: "position:fixed;top:50%;left:50%;transform:translate(-50%,-50%);background:#02040a;color:#fff;padding:25px;border-radius:12px;z-index:2147483647;font-family:sans-serif;text-align:center;box-shadow:0 10px 30px rgba(0,0,0,0.8);border:2px solid #00ffcc;width:280px;box-sizing:border-box;"
